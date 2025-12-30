@@ -33,12 +33,16 @@ Ver estados de hover (passar o mouse) e foco em todos os elementos interativos d
 Visualizar o layout responsivo em diferentes tamanhos de tela.
 
 Screenshot
-(Aqui você adicionará a imagem do seu projeto depois que tirar o print)
+Desktop
+![](/assets/images/blog-preview-card-mainex02.vercel.app_.png)
+
+Mobile
+![](/assets/images/blog-preview-card-mainex02.vercel.app_(iPhone%2014%20Pro%20Max).png)
 
 Links
-URL da Solução: (Link do seu código no GitHub)
+URL da Solução: https://github.com/JenniferEvan/blog-preview-card-mainex02
 
-URL do Site ao Vivo: (Link do site rodando no GitHub Pages)
+URL do Site ao Vivo: https://blog-preview-card-mainex02.vercel.app/
 
 Meu processo
 Construído com
